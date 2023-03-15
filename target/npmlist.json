@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"task-manager","dependencies":{"express":{"version":"4.18.2"},"moongoose":{"version":"0.0.5"},"nodemon":{"version":"2.0.21"}}}
