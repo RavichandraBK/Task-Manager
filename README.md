@@ -8,4 +8,5 @@
 * In gist its a decent task manager.
 # How to Use the Project
 * **Step 1:** Install the NodeJs in your Desktop or PC.
+* **Step 2:** Install nodemon in order to smoothly go through the application
 * **Step 2:** Clone the repo into the pc and also install node modules before using the repo.
